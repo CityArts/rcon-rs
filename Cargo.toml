@@ -6,5 +6,5 @@ authors = ["quickn"]
 [dependencies]
 serde = "1"
 serde_derive = "1"
-rand = "0.5"
+rand = "0.6"
 byteorder = "1"
